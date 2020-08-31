@@ -10,4 +10,4 @@ jobs:
         
     steps:
       - checkout
-      - run: echo "A first hello to viany kandula"
+      - run: echo "A first hello to viany.k"
